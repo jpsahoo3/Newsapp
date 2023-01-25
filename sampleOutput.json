@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Former Republican candidate held over shootings targeting Democrats' homes",
+            "description": "Solomon Pena lost an election then paid four other men to shoot the homes of Democrats, say police.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64304110",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12892/production/_128322957_pena_shutter.jpg",
+            "publishedAt": "2023-01-17T15:22:25.8013448Z",
+            "content": "A man who ran unsuccessfully as a Republican state politician in New Mexico is accused by police of masterminding a shooting spree targeting the homes of Democrats.\r\nSolomon Pena, 39, conspired with … [+1906 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elon Musk begins trial over Tesla tweet that cost him $20m",
+            "description": "Shareholders are suing the Tesla CEO over a 2018 tweet saying he had the funds to take the firm private.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64293744",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FB0F/production/_128317246_gettyimages-1239416791.jpg",
+            "publishedAt": "2023-01-17T15:22:22.5677733Z",
+            "content": "A trial into a tweet by Elon Musk alleging that he would take Tesla private in a $72bn (£58.7bn) buyout is set to begin on Tuesday. \r\nMr Musk is being sued by Tesla shareholders, who say that he mani… [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Matteo Messina Denaro: How Mafia boss was caught on a visit to a clinic",
+            "description": "Italian police arrested Matteo Messina Denaro as he walked from a clinic to a cafe.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64302105",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8054/production/_128325823_9aeafeb5b07e7ca89d51af7422a8ef9ef8331f6b.jpg",
+            "publishedAt": "2023-01-17T15:07:29.5680979Z",
+            "content": "Media caption, WATCH: Moment Matteo Messina Denaro is detained in Palermo, Sicily\r\nItaly's most wanted mobster was heading to a cafe outside a private Sicilian clinic when a policeman approached him … [+7464 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Martin Luther King's son defends new statue amid criticism",
+            "description": "It depicts the hug Dr King shared with Coretta Scott King after winning the Nobel Peace Prize in 1964.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64304111",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BCC9/production/_128292384_gettyimages-1246205254.jpg",
+            "publishedAt": "2023-01-17T15:07:25.6452226Z",
+            "content": "The son of civil rights leaders Dr Martin Luther King Jr and Coretta Scott King has defended a new monument to honour his parents after the artwork faced mounting criticism and mockery. \r\nThe 20-foot… [+1693 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Andrey Medvedev: How Russian mercenary made an icy escape to Norway",
+            "description": "Andrey Medvedev's escape makes him the first Wagner Group mercenary to defect to the West.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64303652",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12B3A/production/_128320667_microsoftteams-image-4.png",
+            "publishedAt": "2023-01-17T14:37:22.7716189Z",
+            "content": "As Andrey Medvedev dashed towards the remote Russia-Norway border, he could hear the sound of attack dogs snarling behind him. \r\nTheir arrival meant the men hunting him were closing in. But the borde… [+6423 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Man arrested on US TV after 4-year-old filmed waving gun",
+            "description": "Neighbours reported a child, seemingly in a nappy, carrying a handgun during a police TV show.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64301137",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8D5F/production/_128319163_mediaitem128319162.jpg",
+            "publishedAt": "2023-01-17T10:37:20.2085526Z",
+            "content": "A man has been arrested on live TV in the US state of Indiana after his four-year-old son, appearing to wear a nappy, was seen waving a gun.\r\nShane Osborne, 45, was charged with neglect after neighbo… [+1724 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Two arrested in case of Indians who froze to death at US-Canada border",
+            "description": "The frozen bodies of the four-member family were discovered near the US-Canada border in January 2022.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-64300364",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183D1/production/_128318299_patelfamily.jpg",
+            "publishedAt": "2023-01-17T08:37:16.5371663Z",
+            "content": "Police in India have arrested two men in connection with the deaths of four people near the US-Canada border in January 2022.\r\nThe bodies, including that of a three-year-old child, were found lying t… [+1873 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Industrial espionage: How China sneaks out America's technology secrets",
+            "description": "The true extent of commercial spying is unknown but experts say it is \"pervasive\".",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64206950",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6827/production/_128236662_gettyimages-1235405358.jpg",
+            "publishedAt": "2023-01-17T08:07:20.3967489Z",
+            "content": "It was an innocuous-looking photograph that turned out to be the downfall of Zheng Xiaoqing, a former employee with energy conglomerate General Electric Power.\r\nAccording to a Department of Justice (… [+7497 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China's population falls for first time since 1961",
+            "description": "The birth rate fell to 6.77 births per 1,000 women - the lowest it has ever been.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64300190",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/168DD/production/_128318329_gettyimages-1454755455.jpg",
+            "publishedAt": "2023-01-17T05:52:21.2864195Z",
+            "content": "China's population has fallen for the first time in 60 years, with the national birth rate hitting a record low - 6.77 births per 1,000 women. \r\nThe population in 2022 - 1.4118 billion - fell by 850,… [+2214 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nepal co-pilot's husband also died in plane crash 16 years previously",
+            "description": "Anju Khatiwada was co-piloting the Yeti Airlines flight when it smashed into a gorge near Pokhara.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64299882",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C83/production/_128317953_mediaitem128317946.jpg",
+            "publishedAt": "2023-01-17T03:07:19.2871435Z",
+            "content": "The co-pilot of the ill-fated flight that crashed in Nepal on Sunday lost her husband in a plane crash 16 years earlier, it has emerged.\r\nAnju Khatiwada was co-piloting Yeti airlines flight 691 when … [+3021 chars]"
+        }
+    ]
+}
